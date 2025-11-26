@@ -8,9 +8,7 @@ PBIX File: Full interactive Power BI report
 
 PDF Export: Static documented version of the dashboard
 
-Screenshots: High-resolution visuals of key report pages
-
-Data Model Notes: Explanation of relationships, measures, and transformations
+Data Dump from Excel
 
 Insights Highlighted
 
